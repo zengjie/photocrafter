@@ -1,0 +1,5 @@
+.env
+.venv
+original
+processed
+processed.zip
